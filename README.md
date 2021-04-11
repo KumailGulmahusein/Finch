@@ -1,5 +1,6 @@
 # Finch
 First Year University Finch Project
+![finch](https://user-images.githubusercontent.com/61838026/114300696-449ad080-9aca-11eb-8166-1f547314583b.jpg)
 
 ## Created Java Program to move a Finch Robot for X second at X% speed, using a GUI.
 
